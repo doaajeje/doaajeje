@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm doaajeje! 👋
 
-<!--
-**doaajeje/doaajeje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on learning computer science basics and building my first projects.
+- 🌱 I’m currently learning programming fundamentals, web development, and software tools.
+- 💬 Ask me about my learning journey and the technologies I am exploring
+  
+    ### Tech stack & skills
+- **version control:** Git, GitHub
+- **Editors:** vs Code
+  
+  ### Connect with me 
+- Email:[doaajeje21@gmail.com]
